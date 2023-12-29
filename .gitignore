@@ -1,3 +1,9 @@
+/bin
+/lib64
+pyvenv.cfg
+/share
+/etc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
